@@ -40,12 +40,12 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#about">About</a>
                     </li>
-                    <li class="nav-item">
+                    {{-- <li class="nav-item">
                         <a class="nav-link" href="#reviews">Reviews</a>
-                    </li>
-                    <li class="nav-item">
+                    </li> --}}
+                    {{-- <li class="nav-item">
                         <a class="nav-link" href="#blog">Blog</a>
-                    </li>
+                    </li> --}}
                     <li class="nav-item">
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
@@ -65,13 +65,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-10">
-                        <h1 class="display-4 fw-bold" data-aos="fade-up">I'M A <span class="text-brand">UI/UX
-                                DESIGNER</span> FROM RAJEG, TANGERANG</h1>
-                        <p class="lead mt-2 mb-4" data-aos="fade-up" data-aos-delay="300">I am Dhafa Ahmad Alvito, And I craft
-                            high-performing and delightful experiences tailored and conversion-focused</p>
+                        <h1 class="display-4 fw-bold" data-aos="fade-up">SAYA ADALAH <span class="text-brand">PROGRAMMER</span> DARI INDONESIA</h1>
+                        <p class="lead mt-2 mb-4" data-aos="fade-up" data-aos-delay="300">Saya Dhafa Ahmad Alvito, Dan saya menciptakan pengalaman berkinerja tinggi dan menyenangkan yang disesuaikan dan berfokus pada konversi</p>
                         <div data-aos="fade-up" data-aos-delay="600">
-                            <a href="#work" class="btn btn-brand me-3">Explore My Work</a>
-                            <a href="#" class="link-custom">Call: 0821 1365 1565</a>
+                            <a href="#work" class="btn btn-brand me-3">Jelajahi Pekerjaan Saya</a>
+                            <a href="#" class="link-custom">Telepon: 0821 1365 1565</a>
                         </div>
                     </div>
                 </div>
@@ -86,8 +84,8 @@
 
                 <div class="row pb-4" data-aos="fade-up">
                     <div class="col-lg-8">
-                        <h6 class="text-brand">SERVICES</h6>
-                        <h1>Services That I Provide</h1>
+                        <h6 class="text-brand">LAYANAN</h6>
+                        <h1>Layanan yang Saya Berikan</h1>
                     </div>
                 </div>
 
@@ -96,10 +94,10 @@
                     <div class="col-md-4" data-aos="fade-up">
                         <div class="service p-4 bg-base rounded-4 shadow-effect">
                             <div class="iconbox rounded-4">
-                                <i class="las la-feather"></i>
+                                <i class="las la-tools"></i>
                             </div>
-                            <h5 class="mt-4 mb-2">UX Design</h5>
-                            <p>I craft high-performing and delightful experiences tailored and conversion-focused</p>
+                            <h5 class="mt-4 mb-2">UX Developer</h5>
+                            <p>Sebagai seorang pengembang UX yang siap membantu Anda merancang dan meningkatkan pengalaman pengguna dan kepuasaan pengguna.</p>
                             <a href="#" class="link-custom">Read More</a>
                         </div>
                     </div>
@@ -107,10 +105,10 @@
                     <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
                         <div class="service p-4 bg-base rounded-4 shadow-effect">
                             <div class="iconbox rounded-4">
-                                <i class="las la-pencil-ruler"></i>
+                                <i class="las la-palette"></i>
                             </div>
-                            <h5 class="mt-4 mb-2">Branding</h5>
-                            <p>I craft high-performing and delightful experiences tailored and conversion-focused</p>
+                            <h5 class="mt-4 mb-2">UI Developer</h5>
+                            <p>Sebagai seorang pengembang UI yang siap membantu Anda menciptakan antarmuka pengguna yang menarik dan efisien.</p>
                             <a href="#" class="link-custom">Read More</a>
                         </div>
                     </div>
@@ -120,8 +118,8 @@
                             <div class="iconbox rounded-4">
                                 <i class="las la-laptop-code"></i>
                             </div>
-                            <h5 class="mt-4 mb-2">Web Designing</h5>
-                            <p>I craft high-performing and delightful experiences tailored and conversion-focused</p>
+                            <h5 class="mt-4 mb-2">Web Developer</h5>
+                            <p>Sebagai seorang pengembang web yang siap membantu Anda membangun dan mengembangkan situs web yang fungsional dan menarik.</p>
                             <a href="#" class="link-custom">Read More</a>
                         </div>
                     </div>
@@ -138,8 +136,8 @@
 
                 <div class="row pb-4" data-aos="fade-up">
                     <div class="col-lg-8">
-                        <h6 class="text-brand">WORK</h6>
-                        <h1>My Recent Projects</h1>
+                        <h6 class="text-brand">Pekerjaan</h6>
+                        <h1>Proyek Terbaru Saya</h1>
                     </div>
                 </div>
 
@@ -147,13 +145,12 @@
 
                     <div class="col-md-6" data-aos="fade-up">
                         <div class="card-custom rounded-4 bg-base shadow-effect">
-                            <div class="card-custom-image rounded-4">
+                            <div class="card-custom-image rounded-4 p-3">
                                 <img class="rounded-4" src="./assets/images/project-1.jpg" alt="">
                             </div>
                             <div class="card-custom-content p-4">
                                 <h4>Startup Landing Page</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the
-                                    elements you could ever need to put together</p>
+                                <p>Saya telah merancang dan mengembangkan berbagai halaman awal (landing page) yang efektif untuk berbagai startup. Setiap halaman dirancang dengan fokus pada tujuan startup untuk menarik perhatian pengunjung dan mengubah mereka menjadi pelanggan potensial yang tertarik.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -161,13 +158,12 @@
 
                     <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
                         <div class="card-custom rounded-4 bg-base shadow-effect">
-                            <div class="card-custom-image rounded-4">
+                            <div class="card-custom-image rounded-4 p-3">
                                 <img class="rounded-4" src="./assets/images/project-2.png" alt="">
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Startup Landing Page</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the
-                                    elements you could ever need to put together</p>
+                                <h4>Mobile App</h4>
+                                <p>Saya telah berkesempatan untuk mengembangkan berbagai aplikasi seluler yang memadukan desain yang menarik dengan fungsionalitas yang kuat dan dirancang dengan cermat untuk memberikan pengalaman pengguna yang intuitif dan memuaskan.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -175,13 +171,12 @@
 
                     <div class="col-md-6" data-aos="fade-up">
                         <div class="card-custom rounded-4 bg-base shadow-effect">
-                            <div class="card-custom-image rounded-4">
+                            <div class="card-custom-image rounded-4 p-3">
                                 <img class="rounded-4" src="./assets/images/project-3.png" alt="">
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Startup Landing Page</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the
-                                    elements you could ever need to put together</p>
+                                <h4>Web Application</h4>
+                                <p>Saya telah mengambil peran yang signifikan dalam pengembangan berbagai aplikasi web yang beragam, dari sistem manajemen konten hingga aplikasi bisnis yang kompleks, responsif dan sukses, dan mengembangkan aplikasi web yang inovatif dan efisien.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -189,13 +184,12 @@
 
                     <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
                         <div class="card-custom rounded-4 bg-base shadow-effect">
-                            <div class="card-custom-image rounded-4">
+                            <div class="card-custom-image rounded-4 p-3">
                                 <img class="rounded-4" src="./assets/images/project-4.png" alt="">
                             </div>
                             <div class="card-custom-content p-4">
-                                <h4>Startup Landing Page</h4>
-                                <p>Innovation that exceeds expectations. Astra is a true template equiqed with all the
-                                    elements you could ever need to put together</p>
+                                <h4>Maintenance and repair</h4>
+                                <p>Saya memiliki pengalaman yang luas dalam melakukan pemeliharaan dan perbaikan berbagai jenis proyek. Saya telah bekerja dengan berbagai klien untuk memastikan sistem mereka berfungsi dengan baik, mengatasi masalah yang muncul, dan meningkatkan kinerja keseluruhan.</p>
                                 <a href="#" class="link-custom">Read More</a>
                             </div>
                         </div>
@@ -225,8 +219,8 @@
 
                             <div class="col-12" data-aos="fade-up" data-aos-delay="600">
                                 <div class="bg-base p-4 rounded-4 shadow-effect">
-                                    <h4>Master of Software Engineering</h4>
-                                    <p class="text-brand mb-2">De Mars University Venston Bay (2015 - 2020)</p>
+                                    <h4>Rekayasa Perangkat Lunak</h4>
+                                    <p class="text-brand mb-2">SMKN 5 Kabupaten Tangerang (2023 - 2024)</p>
                                     <p class="mb-0">All we are more and design lorem ipsum dolor creativity sit amet
                                         consectetur adipisicing elit</p>
                                 </div>
@@ -234,17 +228,8 @@
 
                             <div class="col-12" data-aos="fade-up" data-aos-delay="600">
                                 <div class="bg-base p-4 rounded-4 shadow-effect">
-                                    <h4>Master of Software Engineering</h4>
-                                    <p class="text-brand mb-2">De Mars University Venston Bay (2015 - 2020)</p>
-                                    <p class="mb-0">All we are more and design lorem ipsum dolor creativity sit amet
-                                        consectetur adipisicing elit</p>
-                                </div>
-                            </div>
-
-                            <div class="col-12" data-aos="fade-up" data-aos-delay="600">
-                                <div class="bg-base p-4 rounded-4 shadow-effect">
-                                    <h4>Master of Software Engineering</h4>
-                                    <p class="text-brand mb-2">De Mars University Venston Bay (2015 - 2020)</p>
+                                    <h4>Rekayasa Perangkat Lunak</h4>
+                                    <p class="text-brand mb-2">SMKN 5 Kabupaten Tangerang (2022 - 2023)</p>
                                     <p class="mb-0">All we are more and design lorem ipsum dolor creativity sit amet
                                         consectetur adipisicing elit</p>
                                 </div>
@@ -261,26 +246,8 @@
 
                             <div class="col-12" data-aos="fade-up" data-aos-delay="600">
                                 <div class="bg-base p-4 rounded-4 shadow-effect">
-                                    <h4>Applications developer</h4>
-                                    <p class="text-brand mb-2">Twitter (2018 - 2020)</p>
-                                    <p class="mb-0">All we are more and design lorem ipsum dolor creativity sit amet
-                                        consectetur adipisicing elit</p>
-                                </div>
-                            </div>
-
-                            <div class="col-12" data-aos="fade-up" data-aos-delay="600">
-                                <div class="bg-base p-4 rounded-4 shadow-effect">
-                                    <h4>Applications developer</h4>
-                                    <p class="text-brand mb-2">Twitter (2018 - 2020)</p>
-                                    <p class="mb-0">All we are more and design lorem ipsum dolor creativity sit amet
-                                        consectetur adipisicing elit</p>
-                                </div>
-                            </div>
-
-                            <div class="col-12" data-aos="fade-up" data-aos-delay="600">
-                                <div class="bg-base p-4 rounded-4 shadow-effect">
-                                    <h4>Applications developer</h4>
-                                    <p class="text-brand mb-2">Twitter (2018 - 2020)</p>
+                                    <h4>IT Softwrare Solutions For Business</h4>
+                                    <p class="text-brand mb-2">LKS 2022 (2022)</p>
                                     <p class="mb-0">All we are more and design lorem ipsum dolor creativity sit amet
                                         consectetur adipisicing elit</p>
                                 </div>
@@ -297,7 +264,7 @@
         <!-- //ABOUT -->
 
         <!-- REVIEWS -->
-        <section id="reviews" class="full-height px-lg-5">
+        {{-- <section id="reviews" class="full-height px-lg-5">
             <div class="container">
 
                 <div class="row pb-4" data-aos="fade-up">
@@ -375,11 +342,11 @@
                 </div>
 
             </div>
-        </section>
+        </section> --}}
         <!-- //REVIEWS -->
 
         <!-- BLOG -->
-        <section id="blog" class="full-height px-lg-5">
+        {{-- <section id="blog" class="full-height px-lg-5">
             <div class="container">
 
                 <div class="row pb-4" data-aos="fade-up">
@@ -433,7 +400,7 @@
                 </div>
 
             </div>
-        </section>
+        </section> --}}
         <!-- //BLOG -->
 
         <!-- CONTACT -->
